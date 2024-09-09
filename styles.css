@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-image: url('https://www.google.com/imgres?q=edmar%20branco&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D1027559092277037&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fedmarmartinsbranco%2F&docid=_cJ6QGra4IMM2M&tbnid=7jc1cGoZ4oFS3M&vet=12ahUKEwjHgajvmraIAxVjqpUCHeDqEFcQM3oECGQQAA..i&w=851&h=315&hcb=2&ved=2ahUKEwjHgajvmraIAxVjqpUCHeDqEFcQM3oECGQQAA');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.7; /* esmaecimento da imagem */
+    margin: 0;
+    padding: 0;
+}
+
+header, main, nav, footer {
+    background-color: rgba(255, 255, 255, 0.1); /* Fundo branco semi-transparente */
+    padding: 20px;
+}
+
+header {
+    background: #0bdd82;
+    color: #f1e2e2;
+    padding: 10px 0;
+    text-align: center;
+    max-width: 2000px;
+}
+
+main {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+
+button {
+    color: white; 
+    background-color: rgb(107, 168, 115);
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    font-weight: bold; 
+}
+
+div {
+    background: #0bdd82;
+}
+
+.poema {
+    display: inline-block; 
+    margin-right: 10px;    
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    background: #333235;
+    color: #e2e2e2;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
